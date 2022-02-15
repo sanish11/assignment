@@ -1,4 +1,4 @@
-public class Main {
+public class SimpleTriangle {
 
   public static void main(String[] args) {
     int rows=5;
